@@ -60,7 +60,7 @@ std::vector<CelestialBody> getSolarSystem()
     6.083       * pow(10, 10),
     5.429       * pow(10, 3),
     3.70,
-    2.4397      * pow(10, 3),
+    7.25      * pow(10, 3),
     4.736       * pow(10, 1),
     4.6000      * pow(10, 7),
     6.9818      * pow(10, 7),
